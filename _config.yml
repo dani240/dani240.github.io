@@ -3,33 +3,27 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Ivan Basurto Delgado
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Proyecto de Introducción a la Ingeniería de Software
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/uB5r6lnUqVmLuiSBeqMiNdqGQXwZGj-U-p_9Y0TGh02AgdP4Cn3pIxJxxeBCqUlT8O_cqPExobls7sJMkJ6UW6RHiFJ-5T6o75Z3B_eQ2vbHHXDFQrGaEsRML5rxBRQRv-tSd5_fKMPwSO_cdU1Yh-DvoJzrbkWVlfyZuYomES2gmQY6XQnOXhhGCGhU5StuFwyl2PMVEK0wpZbbLlvaE2Zb_YHz9f1nlrbuhLvo4k3xK00LyrnXO103QBifMlW6vCP7puazQSKST5T7XBrdfD1qkwupMDYnPieAK18imJEOs0_7gNFyijVGGTcwvp1MG5dGVgSERywPTcC-X0Wsy32LO0TMwdFK4-Ux2KSz0N90dgFzDf4x4s_3dvk7yoSx00LwZvzJANPt989bYJupDMo9UumdGI-6ENr9af7BMaItBOQU2IEALAqg0TSjkNZUKNNSyLOYl92Du95V8rA9B-aS8BNR3q9eEfRAAJpCztS7LfQHjOh0S1EUDi1WxVYca3jEcJcyzLds7RlWrZHbLeVLAyW_bZO-P2gTsFqYsb4KEiownQ4tfxToJFhxa7dXy5envbu9PdPp-fgCSYsgkaJNMYkUHabC22fs8no6OZKQR2n5Fu6G4jgcYLp77zfb6GR8_3Y8ANXUv4pb2C27ScSvtAaucxwgilFMCOWR-xIJ49Td8Psi86w=w521-h694-no
 
 #
 # Flags below are optional
-#
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
-  flickr:
+  email: ivan.basurtod@ug.edu.ec
+  facebook: https://es-la.facebook.com/ivancito.daniel240
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  instagram: https://www.instagram.com/ivan_daniel240/?hl=es-la
+  twitter: https://twitter.com/ivan_badel240
+
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
