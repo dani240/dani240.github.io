@@ -5,7 +5,6 @@ title: Perfil Porfesional
 
 Joven de 19 años, graduado de Polivalente Informático de la Unidad Educativa Fiscal Guayaquil, actualmente curso el primer semestre de la carrera de Software en la Universidad de Guayaquil 
 
-![_config.yml]({{ site.baseurl }}/https://www.queestudiar.org/wp-content/uploads/2017/10/software-750x350.jpg)
 
 ## Contenido de la Materia Introducción a la Ingeniería de Software
 
@@ -14,7 +13,6 @@ ___Unidad 1: Introducción a la Ingeniería de Sodtware___
 __Definición de IS__
 La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
-![_config.yml]({{ site.baseurl }}/https://concepto.de/wp-content/uploads/2015/03/software-1-e1550080097569.jpg)
 
 __Objetivos de la IS__
 * Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
