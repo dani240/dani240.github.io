@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Perfil Personal y Profesional
 
 Edad: 19
 
@@ -20,4 +20,4 @@ Espero realizarme más de conocimientos acerca de la informática como en el Ens
 
 ### Contact me
 
-[email@domain.com](mailto:ivan.basurtod@ug.edu.ec
+mail to:ivan.basurtod@ug.edu.ec
