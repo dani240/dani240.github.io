@@ -6,10 +6,14 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+Edad: 19
+Graduado en: Informática en la Unidad Educativa Fiscal Guayaquil
+el 6 de Marzo del 2018
+Actualmente estudio en la Universidad Guayaquil en la Facultad de Ciencias Matemáticas y Físicas ubicada en la ciudad de Guayaquil.
 
-A place to include any other types of information that you'd like to include about yourself.
+Espero realizarme más de conocimientos acerca de la informática como en el Ensamblaje y Mantenimiento de computadoras y también en el Diseño de Páginas web
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:ivan.basurtod@ug.edu.ec
