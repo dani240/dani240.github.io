@@ -1,9 +1,7 @@
 ---
-layout: post
-title: Perfil Porfesional
+diseño: publicación
 ---
 
-Joven de 19 años, graduado de Polivalente Informático de la Unidad Educativa Fiscal Guayaquil, actualmente curso el primer semestre de la carrera de Software en la Universidad de Guayaquil 
 
 
 ## Contenido de la Materia Introducción a la Ingeniería de Software
