@@ -45,8 +45,6 @@ baseurl: ""
 # !! ¡No necesita cambiar ninguno de los indicadores de configuración a continuación!
 #
 
-Enlace permanente : / : título /
-
 # El lanzamiento de Jekyll Ahora que estás usando
 versión : v1.2.0
 
