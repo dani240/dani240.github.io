@@ -20,4 +20,4 @@ Espero realizarme más de conocimientos acerca de la informática como en el Ens
 
 ### Contact me
 
-mail to:ivan.basurtod@ug.edu.ec
+<a href="ivan.basurtod@ug.edu.ec"></a>
